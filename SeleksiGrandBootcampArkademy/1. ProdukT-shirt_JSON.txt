@@ -1,0 +1,22 @@
+{
+	
+"produk" : {
+
+"itemId":"12341822",
+
+"itemName":"basic tshirt",
+
+"price":70000,
+
+"availableColorAndSize" : [
+	{
+	"Color" : "Red",
+	"Size" : ["S","M","L"]
+	},
+	{
+	"Color" : "Solid Black",
+	"Size" : ["S","M","L"]
+	}
+]
+"freeShipping" : false
+}
